@@ -66,25 +66,33 @@ body{
     top: 296px;
     left: 157px;
 }
-.time1{
+.timeselect1{
     position: absolute;
-    top: 30px;
+    top: 34px;
     left: 334px;
+    padding: 7px;
+    width: 181px;
 }
-.time2{
+.timeselect2{
     position: absolute;
-    top: 109px;
+    top: 110px;
     left: 334px;
+    padding: 7px;
+    width: 181px;
 }
-.time3{
+.timeselect3{
     position: absolute;
-    top: 197px;
+    top: 194px;
     left: 334px;
+    padding: 7px;
+    width: 181px;
 }
-.time4{
+.timeselect4{
     position: absolute;
     top: 289px;
     left: 334px;
+    padding: 7px;
+    width: 181px;
 }
 .time{
     display: flex;
@@ -228,4 +236,5 @@ body{
     width: 536px;
     height: 341px;
     border-radius: 10px;
+    background-image: url(./media/Component\ 30\ –\ 1.jpg);
 }
